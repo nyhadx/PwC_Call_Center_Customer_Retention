@@ -4,7 +4,8 @@ Create a dashboard in Power BI for a retention manager working for a big telecom
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Dashboard Screenshot](https://github.com/nyhadx/PwC_Call_Center_Customer_Retention/blob/main/PwC_Customer_Churn_Customers.png)
+![Dashboard Screenshot](https://github.com/nyhadx/PwC_Call_Center_Customer_Retention/blob/main/PwC_Customer_Churn_Accounts.png)
 
 ## Introduction
 
